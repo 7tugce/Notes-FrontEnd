@@ -1,0 +1,145 @@
+a{
+    font-family: Nanum Pen Script;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover{
+color: #A760FF;
+}
+
+body{
+    margin: 0px;
+    text-align: center;
+    
+}
+.bottom-cloud{
+    bottom: 300px;
+    left:300px;
+    position: absolute;
+
+}
+
+.bottom-container {
+    background-color: #D3CEDF;
+    margin: 100px 0 ;
+    padding: 50px 0 20px 0;
+   
+}
+.btn {
+    background: #bb34d9;
+    background-image: -webkit-linear-gradient(top, #bb34d9, #632bb8);
+    background-image: -moz-linear-gradient(top, #bb34d9, #632bb8);
+    background-image: -ms-linear-gradient(top, #bb34d9, #632bb8);
+    background-image: -o-linear-gradient(top, #bb34d9, #632bb8);
+    background-image: linear-gradient(to bottom, #bb34d9, #632bb8);
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    font-family: Nanum Pen Script;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cfaed;
+    background-image: -webkit-linear-gradient(top, #3cfaed, #1accb4);
+    background-image: -moz-linear-gradient(top, #3cfaed, #1accb4);
+    background-image: -ms-linear-gradient(top, #3cfaed, #1accb4);
+    background-image: -o-linear-gradient(top, #3cfaed, #1accb4);
+    background-image: linear-gradient(to bottom, #3cfaed, #1accb4);
+    text-decoration: none;
+  }
+.copyright{
+    color: black;
+    font-size: 1.5rem;
+    padding: 20px 0;
+}
+.CSS{
+    height: 100px;
+    margin: 30px;
+    width: 100px;
+}
+
+.first-paragraph{
+    color: #395B64;
+}
+.footer-link{
+    color: #898AA6;
+}
+
+.HTML{
+    
+    height: 100px;
+    margin: 30px;
+    width: 100px;
+}
+hr{
+    border-color:#40514E;
+    border-style: none;
+    border-top: dotted;
+    width: 10%;
+   border-width: 10px;
+}
+
+h1{
+    
+    color:#395B64;
+    font-size: 5.625em;
+    font-family: 'Sacramento', cursive;
+    margin-top: 0px;
+    
+}
+h2{ 
+    
+    color: #F999B7;
+   font-family: 'Sacramento', cursive;
+     font-size: 3.60rem;
+    font-weight: normal;
+}
+
+h3{
+    color: #94B49F;
+    font-family: 'Sacramento', cursive;
+    font-size: 3rem;
+   
+}
+
+.javascript{
+     height: 100px;
+    margin: 30px;
+    width: 100px;
+}
+
+ .middle-container {
+    margin: 100px 0 ;
+}
+p{
+    color: #3F4E4F;
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 2rem;
+    
+
+}
+
+
+.skill-row{
+   
+   margin: 100px auto 100px auto;
+   
+    width: 50%;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top:50px;
+}
+
+.top-container{
+    background-color:#9CB4CC;
+    padding-top: 250px;
+    position: relative;
+    
+}
